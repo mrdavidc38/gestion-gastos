@@ -1,0 +1,7 @@
+{
+  "name": "GastoPlan",
+  "description": "Planificador y control de gastos personales futuros y realizados, presupuestos y dinero comprometido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
